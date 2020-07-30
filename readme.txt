@@ -6,3 +6,4 @@ Git tracks changes of files.
 git branch dev
 Creating a new branch is quick AND simple.
 实战一下--no-ff方式的git merge：
+git stash
